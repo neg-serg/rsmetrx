@@ -1,6 +1,5 @@
 use std::fs;
 use std::io::{self, Write};
-use std::path::Path;
 use std::time::{Duration, Instant};
 use regex::Regex;
 use serde::Serialize;
